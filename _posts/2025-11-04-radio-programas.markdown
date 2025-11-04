@@ -28,17 +28,15 @@ Terça Feira - 21h -23h
 Quartas 23h-24h
 [https://archive.org/details/radio-paralelo-sem-guiao](https://archive.org/details/radio-paralelo-sem-guiao)
 
+Mais info em breve
 
-+++
+### Compilações / Zines
 
-
-# Compilações / Zines
-
-### Edições da Rádio Paralelo
+### Edição: Rádio Paralelo
 - Zé Mario Pirata
 https://archive.org/details/ZeMarioPirata
 
-### Edições amigas
+### Edições livres:
 
 - Zeca Pirata (Casa Viva)
 https://archive.org/details/ZecaPirata
