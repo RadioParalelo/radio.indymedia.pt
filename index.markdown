@@ -11,9 +11,9 @@ layout: home
        <a href="https://radioparalelo.indymedia.pt:8443/main.ogg"></a>
 </figure>
 
-🏴 Rádio Paralelo
 📻 Rádio Livre, Anarquista, Autogerida 
-(A) Emissão digital 24h/7 a partir da livraria-bar [Gato Vadio](https://gatovadiolivraria.blogspot.com), no Porto.
+(A) Emissão digital em permanência, a partir da livraria-bar [Gato Vadio](https://gatovadiolivraria.blogspot.com), no Porto.
+
 🎧 [Audio](https://radioparalelo.indymedia.pt:8443/main.ogg) | 🎙 [Estúdio](https://radioparalelo.indymedia.pt) | 💻 [Servidor Icecast](https://radioparalelo.indymedia.pt:8443/)
 
 ### 🏛️ [Arquivo](https://archive.org/details/@r_dio_paralelo_porto) 
