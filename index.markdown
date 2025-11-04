@@ -4,10 +4,8 @@
 
 layout: home
 ---
-### 🏴 Rádio Paralelo
-#### A partir montras desde 2016! 
 <img src="https://raw.githubusercontent.com/RadioParalelo/RadioParalelo/refs/heads/main/web/RadioParalelo-BlackStar.png" alt="Rádio Paralelo Logo" width="120" />
-
+🏴 Rádio Paralelo
 <figure>
        <figcaption>Transmissão digital:</figcaption>
        <audio controls src="https://radioparalelo.indymedia.pt:8443/main.ogg"></audio>
