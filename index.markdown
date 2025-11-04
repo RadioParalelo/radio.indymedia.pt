@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 <img src="https://raw.githubusercontent.com/RadioParalelo/RadioParalelo/refs/heads/main/web/RadioParalelo-BlackStar.png" alt="Rádio Paralelo Logo" width="120" />
@@ -11,8 +8,8 @@ layout: home
        <a href="https://radioparalelo.indymedia.pt:8443/main.ogg"></a>
 </figure>
 
-📻 Rádio Livre, Anarquista, Autogerida 
-(A) Emissão digital em permanência, a partir da livraria-bar [Gato Vadio](https://gatovadiolivraria.blogspot.com), no Porto.
+📻 Rádio Livre Anarquista
+(A) Emissão digital, a partir da livraria-bar [Gato Vadio](https://gatovadiolivraria.blogspot.com), no Porto.
 
 🎧 [Audio](https://radioparalelo.indymedia.pt:8443/main.ogg) | 🎙 [Estúdio](https://radioparalelo.indymedia.pt) | 💻 [Servidor Icecast](https://radioparalelo.indymedia.pt:8443/)
 
@@ -21,7 +18,7 @@ layout: home
 🐘 [Mastodon](https://kolektiva.social/@paralelo) 📘 [Facebook](https://www.facebook.com/RadioParalelo) 📸 [Instagram](https://www.instagram.com/radioparalelo/) 📲 [Telegram](https://t.me/s/radioparalelo) 
 Contacto por email: radioparalelo@lists.riseup.net
 
-🌐 [indymedia.pt][https://indymedia.pt]
+🌐 [indymedia.pt](https://indymedia.pt)
 
 [Libera Tu Radio](https://mapa.liberaturadio.org/): Mapa da Rede de Radios Livres
 [Cadenazo Radial Anti-Extrativista 2025](https://lazarzamora.cl/cadenazo-radial-antiextractivista)
