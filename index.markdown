@@ -30,6 +30,8 @@ layout: home
 📸 [Instagram](https://www.instagram.com/radioparalelo/) 
 📲 [Telegram](https://t.me/s/radioparalelo) 
 
+Contacto por email: radioparalelo@lists.riseup.net
+
 ### Calendário
 
 <iframe frameborder="0" width="290" height="220" src="https://radioparalelo.indymedia.pt/embed/player?stream=auto&title=radio.indymedia.pt"></iframe>
