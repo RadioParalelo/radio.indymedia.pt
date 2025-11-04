@@ -43,6 +43,9 @@ Mastodon: [@paralelo@kolektiva.social](https://kolektiva.social/@paralelo)
 > <iframe height="700px" width="50%" scrolling="yes" src="https://mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fkolektiva.social%2Fusers%2Fparalelo&theme=dark&size=90&header=true&replies=false&boosts=true"></iframe>
 
 
+![](https://we.riseup.net/assets/971862/ParaleloBackground.png)
+
+Codigo Fonte do Website: [GitHub](https://github.com/RadioParalelo/radio.indymedia.pt)
 ((( ⓘ ))) 
 paralelo@riseup.net
 🄯 Rádio Paralelo 
