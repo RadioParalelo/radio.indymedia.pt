@@ -6,10 +6,13 @@ layout: home
 ---
 ### 🏴 Rádio Paralelo
 #### A partir montras desde 2016! 
-
 <img src="https://raw.githubusercontent.com/RadioParalelo/RadioParalelo/refs/heads/main/web/RadioParalelo-BlackStar.png" alt="Rádio Paralelo Logo" width="120" />
 
-<iframe frameborder="0" width="290" height="220" src="https://radioparalelo.indymedia.pt/embed/player?stream=auto&title=radio.indymedia.pt"></iframe>
+<figure>
+       <figcaption>Transmissão digital:</figcaption>
+       <audio controls src="https://radioparalelo.indymedia.pt:8443/main.ogg"></audio>
+       <a href="https://radioparalelo.indymedia.pt:8443/main.ogg"></a>
+</figure>
 
 📻 Rádio Livre, Anarquista, Autogerida 
 🌐 Emissão digital 24h/7 a partir da livraria-bar [Gato Vadio](https://gatovadiolivraria.blogspot.com), no Porto.
