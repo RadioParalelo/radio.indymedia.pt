@@ -7,7 +7,11 @@ categories: jekyll update
 
 ### Programação
 
-<iframe frameborder="0" width="290" height="220" src="https://radioparalelo.indymedia.pt/embed/player?stream=auto&title=radio.indymedia.pt"></iframe>
+<figure>
+       <figcaption>Transmissão digital:</figcaption>
+       <audio controls src="https://radioparalelo.indymedia.pt:8443/main.ogg"></audio>
+       <a href="https://radioparalelo.indymedia.pt:8443/main.ogg"></a>
+</figure>
 
 <iframe height="410px" width="90%" scrolling="no" frameborder="0" src="https://radioparalelo.indymedia.pt/embed/weekly-program"></iframe>
 
