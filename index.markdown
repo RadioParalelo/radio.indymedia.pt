@@ -34,7 +34,7 @@ layout: home
 
 <iframe frameborder="0" width="290" height="220" src="https://radioparalelo.indymedia.pt/embed/player?stream=auto&title=radio.indymedia.pt"></iframe>
 
-<iframe height="410px" width="560px" scrolling="no" frameborder="0" src="https://radioparalelo.indymedia.pt/embed/weekly-program"></iframe>
+<iframe height="410px" width="100%" scrolling="no" frameborder="0" src="https://radioparalelo.indymedia.pt/embed/weekly-program"></iframe>
 
 
 ##### Subscrever e importar 
