@@ -1,6 +1,8 @@
 ---
 layout: home
 ---
+# Rádio Paralelo 
+
 <img src="https://raw.githubusercontent.com/RadioParalelo/RadioParalelo/refs/heads/main/web/RadioParalelo-BlackStar.png" alt="Rádio Paralelo Logo" width="120" />
 <figure>
        <figcaption>Transmissão digital:</figcaption>
@@ -8,6 +10,7 @@ layout: home
        <a href="https://radioparalelo.indymedia.pt:8443/main.ogg"></a>
 </figure>
 
+🏴 A Partir Montras desde 2016!
 📻 Rádio Livre Anarquista
 (A) Emissão digital, a partir da livraria-bar [Gato Vadio](https://gatovadiolivraria.blogspot.com), no Porto.
 
