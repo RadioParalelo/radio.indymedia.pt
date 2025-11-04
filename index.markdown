@@ -3,12 +3,7 @@ layout: home
 ---
 # Rádio Paralelo 
 
-<img src="https://raw.githubusercontent.com/RadioParalelo/RadioParalelo/refs/heads/main/web/RadioParalelo-BlackStar.png" alt="Rádio Paralelo Logo" width="120" />
-<figure>
-       <figcaption>Transmissão digital:</figcaption>
-       <audio controls src="https://radioparalelo.indymedia.pt:8443/main.ogg"></audio>
-       <a href="https://radioparalelo.indymedia.pt:8443/main.ogg"></a>
-</figure>
+<iframe frameborder="0" width="290" height="216" src="https://radioparalelo.indymedia.pt/embed/player?stream=auto&title=Now Playing"></iframe>
 
 🏴 A Partir Montras desde 2016!
 📻 Rádio Livre Anarquista
