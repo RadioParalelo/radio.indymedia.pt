@@ -34,17 +34,13 @@ layout: home
 
 <iframe frameborder="0" width="290" height="220" src="https://radioparalelo.indymedia.pt/embed/player?stream=auto&title=radio.indymedia.pt"></iframe>
 
-<iframe height="410px" width="100%" scrolling="no" frameborder="0" src="https://radioparalelo.indymedia.pt/embed/weekly-program"></iframe>
+<iframe height="410px" width="90%" scrolling="no" frameborder="0" src="https://radioparalelo.indymedia.pt/embed/weekly-program"></iframe>
 
 
-##### Subscrever e importar 
+### Mastodon 
+Mastodon: [@paralelo@kolektiva.social](https://kolektiva.social/@paralelo)
 
-Agregadores de RSS
-- 🛜 [RSS Feed](https://rss.zdx.fr/api/query.php?user=radioparalelo&t=bc598c7f195190354da8e14fc0686fac&f=rss)  ([Versão Web](https://rss.zdx.fr/api/query.php?user=radioparalelo&t=bc598c7f195190354da8e14fc0686fac&f=html))
-
-Leitores (p.e. VLC)
-- [m3u](https://radioparalelo.indymedia.pt:8443/main.ogg.m3u)
-- [xspf](https://radioparalelo.indymedia.pt:8443/main.ogg.xspf)
+> <iframe height="700px" width="50%" scrolling="yes" src="https://mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fkolektiva.social%2Fusers%2Fparalelo&theme=dark&size=90&header=true&replies=false&boosts=true"></iframe>
 
 
 ((( ⓘ ))) 
