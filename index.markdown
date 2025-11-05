@@ -20,6 +20,3 @@ Contacto por email: radioparalelo@lists.riseup.net
 
 [Libera Tu Radio](https://mapa.liberaturadio.org/): Mapa da Rede de Radios Livres
 [Cadenazo Radial Anti-Extrativista 2025](https://lazarzamora.cl/cadenazo-radial-antiextractivista)
-
-<iframe height="520px" width="100%" scrolling="yes" src="https://mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fkolektiva.social%2Fusers%2Fparalelo&theme=dark&size=90&header=true&replies=false&boosts=true"></iframe>
-
