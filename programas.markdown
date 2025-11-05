@@ -11,7 +11,7 @@ permalink: /programas/
 
 <iframe height="410px" width="90%" scrolling="no" frameborder="0" src="https://radioparalelo.indymedia.pt/embed/weekly-program"></iframe>
 
-# Programação
+# Programas
 
 ### Leituras Vadias
 
