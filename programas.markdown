@@ -42,7 +42,9 @@ Reggae, Dub & Uplifting Conscious Selections by Bob Figurante.
 
 Quarta Feira - 21h - 23h
 
-[http://poesiaemloop.blogspot.com/](http://poesiaemloop.blogspot.com/)
+Página Poesia em Loop: [https://poesiaemloop.indymedia.pt](https://poesiaemloop.indymedia.pt)
+
+Blog: [http://poesiaemloop.blogspot.com/](http://poesiaemloop.blogspot.com/)
 
 Sonoplastia Poético-Delinquente
 por Mutante Noé
