@@ -28,9 +28,15 @@ github_username:  RadioParalelo
 instagram_username: radioparalelo
 
 # Build settings
-theme: minima
+remote_theme: b2a3e8/jekyll-theme-console
+# Optional but recommended
 plugins:
+  - jekyll-seo-tag
   - jekyll-feed
+
+style: dark # dark (default), light, hacker, or nord
+listen_for_clients_preferred_style: true # false (default) or true
+disable_google_fonts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
