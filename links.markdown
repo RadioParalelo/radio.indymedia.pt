@@ -4,6 +4,9 @@ title:  "Ligações"
 date:   2025-11-05 14:04:00 +0000
 categories: jekyll update
 ---
+# Indymedia
+- [Indymedia.pt](https://indymedia.pt)
+- [Radio.Indymedia.org](https://radio.indymedia.org)
 
 # Ligações externas:
 
