@@ -7,6 +7,9 @@ categories: jekyll update
 
 # Ligações externas:
 
+[Libera Tu Radio](https://mapa.liberaturadio.org/): Mapa da Rede de Radios Livres
+[Cadenazo Radial Anti-Extrativista 2025](https://lazarzamora.cl/cadenazo-radial-antiextractivista)
+
 ## Rádios Online em Portugal:
 Rádio Quântica
 https://www.radioquantica.com
