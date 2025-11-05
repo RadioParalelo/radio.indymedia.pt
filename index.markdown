@@ -3,7 +3,9 @@ layout: home
 ---
 # Rádio Paralelo 
 
-<iframe frameborder="0" width="290" height="216" src="https://radioparalelo.indymedia.pt/embed/player?stream=auto&title=Now Playing"></iframe>
+<img src="https://raw.githubusercontent.com/RadioParalelo/RadioParalelo/refs/heads/main/web/RadioParalelo-BlackStar.png" alt="Rádio Paralelo Logo" width="120" />
+
+<iframe frameborder="0" width="290" height="220" src="https://radioparalelo.indymedia.pt/embed/player?stream=auto&title=Now Playing"></iframe>
 
 🏴 A Partir Montras desde 2016!
 📻 Rádio Livre Anarquista
@@ -18,5 +20,4 @@ Contacto por email: radioparalelo@lists.riseup.net
 
 🌐 [indymedia.pt](https://indymedia.pt)
 
-[Libera Tu Radio](https://mapa.liberaturadio.org/): Mapa da Rede de Radios Livres
-[Cadenazo Radial Anti-Extrativista 2025](https://lazarzamora.cl/cadenazo-radial-antiextractivista)
+
