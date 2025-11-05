@@ -2,7 +2,7 @@
 layout: home
 ---
 # Rádio Paralelo 
-![Radio Paralelo GIF](radioparalelo.gif)
+![Radio Paralelo](RadioParalelo-BlackStar.png)
 
 <iframe frameborder="0" width="290" height="220" src="https://radioparalelo.indymedia.pt/embed/player?stream=auto&title=radio.indymedia.pt"></iframe>
 
