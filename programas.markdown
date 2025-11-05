@@ -47,7 +47,7 @@ Página Poesia em Loop: [https://poesiaemloop.indymedia.pt](https://poesiaemloop
 Blog: [http://poesiaemloop.blogspot.com/](http://poesiaemloop.blogspot.com/)
 
 Sonoplastia Poético-Delinquente
-por Mutante Noé
+por DJ Mutante
 
 ### Sem Guião
 
