@@ -1,8 +1,7 @@
 ---
-layout: Page
-title:  "Programas"
-date:   2025-11-04 03:01:48 +0000
-categories: jekyll update
+layout: page
+title: Programação
+permalink: /programas/
 ---
 <figure>
        <figcaption>Transmissão digital:</figcaption>
