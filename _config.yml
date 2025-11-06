@@ -29,9 +29,18 @@ instagram_username: radioparalelo
 
 # Build settings
 theme: minima
-
+#theme: jekyll-theme-console
 plugins:
   - jekyll-feed
+
+# header_pages:
+#  - index.md
+#  - about.md
+
+#style: dark # dark (default), light, hacker, or nord
+#listen_for_clients_preferred_style: true # false (default) or true
+
+#footer: 'follow us on <a href="https://twitter.com/xxx">twitter</a>'
 
 disable_google_fonts: true
 
