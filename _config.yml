@@ -33,9 +33,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-compress_html:
-  blanklines: true
-
+disable_google_fonts: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
