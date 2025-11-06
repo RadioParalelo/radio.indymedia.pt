@@ -11,7 +11,7 @@ permalink: /programas/
 
 <iframe height="410px" width="90%" scrolling="no" frameborder="0" src="https://radioparalelo.indymedia.pt/embed/weekly-program"></iframe>
 
-# Programação
+# Programas
 
 ### Leituras Vadias
 
@@ -42,10 +42,12 @@ Reggae, Dub & Uplifting Conscious Selections by Bob Figurante.
 
 Quarta Feira - 21h - 23h
 
-[http://poesiaemloop.blogspot.com/](http://poesiaemloop.blogspot.com/)
+Página Poesia em Loop: [https://poesiaemloop.indymedia.pt](https://poesiaemloop.indymedia.pt)
+
+Blog: [http://poesiaemloop.blogspot.com/](http://poesiaemloop.blogspot.com/)
 
 Sonoplastia Poético-Delinquente
-por Mutante Noé
+por DJ Mutante
 
 ### Sem Guião
 

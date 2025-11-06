@@ -18,22 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: radio.indymedia.pt
+title: Rádio Paralelo
 email: paralelo@riseup.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Rádio Libre, Anarquista, Auto Gerida. A Partir Montras desde 2016!
+  A Partir Montras desde 2016!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://radio.indymedia.pt" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://radio.indymedia.pt" 
 github_username:  RadioParalelo
 instagram_username: radioparalelo
-mastodon_username: kolektiva.social/@paralelo
 
 # Build settings
 theme: minima
+
 plugins:
   - jekyll-feed
 
 disable_google_fonts: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
