@@ -3,11 +3,9 @@ layout: home
 ---
 ## Rádio Paralelo 
 A Partir Montras desde 2016!
-
 <audio autoplay controls="controls"> <source src="https://radios.liberaturadio.org/radioparalelo" type="audio/mp3" /> </audio> 
 
 <img src="RadioParalelo-BlackStar.png" alt="Rádio Paralelo Logo" width="120" />
-
 📻 Rádio Livre, Anarquista 
 (A) Emissão digital, a partir da livraria-bar [Gato Vadio](https://gatovadiolivraria.blogspot.com), no Porto.
 
