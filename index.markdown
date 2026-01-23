@@ -4,7 +4,7 @@ layout: home
 ## Rádio Paralelo 
 A Partir Montras desde 2016!
 
-<iframe frameborder="0" width="290" height="220" src="https://radioparalelo.indymedia.pt/embed/player?stream=auto&title=radio.indymedia.pt"></iframe>
+<audio autoplay controls="controls"> <source src="https://radios.liberaturadio.org/radioparalelo" type="audio/mp3" /> </audio> 
 
 <img src="RadioParalelo-BlackStar.png" alt="Rádio Paralelo Logo" width="120" />
 
@@ -15,8 +15,8 @@ A Partir Montras desde 2016!
 
 <figure>
        <figcaption>Rádio Paralelo</figcaption>
-       <audio controls src="https://radioparalelo.indymedia.pt:8443/main.ogg"></audio>
-       <a href="https://radioparalelo.indymedia.pt:8443/main.ogg"></a>
+       <audio controls src="https://radios.liberaturadio.org/radioparalelo"></audio>
+       <a href="https://radios.liberaturadio.org/radioparalelo"></a>
 </figure>
 
 ### 🏛️ [Arquivo](https://archive.org/details/@r_dio_paralelo_porto) 
