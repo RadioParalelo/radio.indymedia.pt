@@ -9,7 +9,7 @@ A Partir Montras desde 2016!
 
 📻 Rádio Livre (A)
 
- 🎧 Emissão digital, a partir da livraria-bar [Gato Vadio](https://gatovadiolivraria.blogspot.com), no Porto; através dos servidores radios.yanapak.org
+ 🎧 Emissão digital, a partir da livraria-bar [Gato Vadio](https://gatovadiolivraria.blogspot.com), no Porto;
 
  [Libera Tu Radio](https://radios.liberaturadio.org/radioparalelo) 
 
