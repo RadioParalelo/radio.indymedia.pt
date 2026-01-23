@@ -11,7 +11,7 @@ A Partir Montras desde 2016!
 
  🎧 Emissão digital, a partir da livraria-bar [Gato Vadio](https://gatovadiolivraria.blogspot.com), no Porto;
 
- [Libera Tu Radio](https://radios.liberaturadio.org/radioparalelo) 
+ [Libera Tu Radio](https://mapa.liberaturadio.org/) 
 
  💻 [Icecast](https://radios.yanapak.org/)
 
