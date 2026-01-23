@@ -3,7 +3,7 @@ layout: home
 ---
 ## Rádio Paralelo 
 A Partir Montras desde 2016!
-<audio autoplay controls="controls"> <source src="https://radios.yanapak.org/radioparalelo" type="audio/mp3" /> </audio> 
+<audio autoplay controls="controls"> <source src="https://stream.espora.org/radioparalelo" type="audio/mp3" /> </audio> 
 
 <img src="RadioParalelo-BlackStar.png" alt="Rádio Paralelo Logo" width="120" />
 
@@ -13,7 +13,7 @@ A Partir Montras desde 2016!
 
  [Libera Tu Radio](https://mapa.liberaturadio.org/) 
 
- 💻 [Icecast](https://radios.yanapak.org/)
+ 💻 [Espora.org (Streaming)](https://espora.org)
 
 ### 🏛️ [Arquivo](https://archive.org/details/@r_dio_paralelo_porto) 
 
