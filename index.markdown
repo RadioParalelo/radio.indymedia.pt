@@ -3,19 +3,16 @@ layout: home
 ---
 ## Rádio Paralelo 
 A Partir Montras desde 2016!
-<audio autoplay controls="controls"> <source src="https://stream.espora.org/radioparalelo" type="audio/mp3" /> </audio> 
+<audio autoplay controls="controls"> <source src="https://radios.yanapak.org/radioparalelo" type="audio/mp3" /> </audio> 
 
 <img src="RadioParalelo-BlackStar.png" alt="Rádio Paralelo Logo" width="120" />
+🏛️ [Arquivo](https://archive.org/details/@r_dio_paralelo_porto) 
 
-📻 Rádio Livre (A)
+🎧 Emissão digital, a partir da livraria-bar [Gato Vadio](https://gatovadiolivraria.blogspot.com), no Porto;
 
- 🎧 Emissão digital, a partir da livraria-bar [Gato Vadio](https://gatovadiolivraria.blogspot.com), no Porto;
+📻 [Libera Tu Radio](https://mapa.liberaturadio.org/) 
 
- [Libera Tu Radio](https://mapa.liberaturadio.org/) 
-
- 💻 [Espora.org (Streaming)](https://espora.org)
-
-### 🏛️ [Arquivo](https://archive.org/details/@r_dio_paralelo_porto) 
+💻 [Yanapak.org (Servidor de Streaming)](https://yanapak.org)
 
 🐘 [Mastodon](https://kolektiva.social/@paralelo) 📘 [Facebook](https://www.facebook.com/RadioParalelo) 📸 [Instagram](https://www.instagram.com/radioparalelo/) 📲 [Telegram](https://t.me/s/radioparalelo) 
 
