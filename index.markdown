@@ -4,8 +4,7 @@ layout: home
 ## Rádio Paralelo 
 A Partir Montras desde 2016!
 <audio autoplay controls="controls"> <source src="https://radios.yanapak.org/radioparalelo" type="audio/mp3" /> </audio> 
-
-<img src="RadioParalelo-BlackStar.png" alt="Rádio Paralelo Logo" width="120" />
+![](https://github.com/RadioParalelo/radio.indymedia.pt/blob/master/radioparalelo.png?raw=true)
 
 ### 🏛️ [Arquivo](https://archive.org/details/@r_dio_paralelo_porto) 
 
@@ -23,3 +22,4 @@ email: radioparalelo@lists.riseup.net
 
 🌐 [indymedia.pt](https://indymedia.pt)
 
+![](RadioParalelo-BlackStar.png)
