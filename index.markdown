@@ -3,7 +3,7 @@ layout: home
 ---
 ## Rádio Paralelo 
 
-![](https://github.com/RadioParalelo/radio.indymedia.pt/blob/master/radioparalelo.png?raw=true)
+![](radioparalelo.png)
 
 <audio autoplay controls="controls"> <source src="https://radios.yanapak.org/radioparalelo" type="audio/mp3" /> </audio> 
 
@@ -23,4 +23,4 @@ email: radioparalelo@lists.riseup.net
 
 🌐 [indymedia.pt](https://indymedia.pt)
 
-![](RadioParalelo-BlackStar.png)
+![](paralelo-star.png)
