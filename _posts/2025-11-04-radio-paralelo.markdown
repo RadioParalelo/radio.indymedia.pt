@@ -1,14 +1,10 @@
----
-layout: Post
-title:  "Calendário"
-date:   2025-11-04 03:01:48 +0000
-categories: jekyll update
----
-<figure>
-       <figcaption>Transmissão digital:</figcaption>
-       <audio controls src="https://radioparalelo.indymedia.pt:8443/main.ogg"></audio>
-       <a href="https://radioparalelo.indymedia.pt:8443/main.ogg"></a>
-</figure>
+Programas
 
-<iframe height="410px" width="90%" scrolling="no" frameborder="0" src="https://radioparalelo.indymedia.pt/embed/weekly-program"></iframe>
+Musica Livre:
+
+<iframe src="https://archive.org/embed/ZeMarioPirata" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://archive.org/embed/NoResistirSENoSResistir" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://archive.org/embed/ZecaPirata" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
