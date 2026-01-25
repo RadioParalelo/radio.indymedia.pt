@@ -9,7 +9,7 @@ A Partir Montras desde 2016!
 
 ### 🏛️ [Arquivo](https://archive.org/details/@r_dio_paralelo_porto) 
 
-🏴‍☠️ [Torrent downloads](https://github.com/RadioParalelo/radio.indymedia.pt/raw/refs/heads/master/RadioParalelo.torrent)
+🏴‍☠️ [Torrent download and seed](https://github.com/RadioParalelo/radio.indymedia.pt/raw/refs/heads/master/RadioParalelo.torrent)
 
 🎧 Emissão digital, a partir da livraria-bar [Gato Vadio](https://gatovadiolivraria.blogspot.com), no Porto;
 
