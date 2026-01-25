@@ -2,9 +2,10 @@
 layout: home
 ---
 ## Rádio Paralelo 
-A Partir Montras desde 2016!
-<audio autoplay controls="controls"> <source src="https://radios.yanapak.org/radioparalelo" type="audio/mp3" /> </audio> 
+
 ![](https://github.com/RadioParalelo/radio.indymedia.pt/blob/master/radioparalelo.png?raw=true)
+
+<audio autoplay controls="controls"> <source src="https://radios.yanapak.org/radioparalelo" type="audio/mp3" /> </audio> 
 
 ### 🏛️ [Arquivo](https://archive.org/details/@r_dio_paralelo_porto) 
 
