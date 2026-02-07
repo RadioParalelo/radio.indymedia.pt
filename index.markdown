@@ -5,7 +5,7 @@ layout: home
 
 ![](radioparalelo.png)
 
-<audio autoplay controls="controls"> <source src="https://radios.yanapak.org/radioparalelo" type="audio/mp3" /> </audio> 
+<audio autoplay controls="controls"> <source src="https://radioparalelo.indymedia.pt:8443/main.ogg" type="audio/mp3" /> </audio> 
 
 ### 🏛️ [Arquivo](https://archive.org/details/@r_dio_paralelo_porto) 
 
